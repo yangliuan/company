@@ -1,0 +1,153 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../image/body_bg.gif);
+	background-repeat: repeat;
+}
+#layout {
+	height: 825px;
+	width: 996px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+}
+
+#top {
+	width: 996px;
+	height: 366px;
+	margin-bottom: 5px;
+	padding: 0px;
+	background-image: url(../image/top_bg.gif);
+	position: relative;
+}
+#logo {
+	height: 53px;
+	width: 157px;
+	float: left;
+	margin-top: 0px;
+	background-image: url(../image/logo.gif);
+	background-repeat: no-repeat;
+}
+#top_menu  {
+	height: 30px;
+	width: 782px;
+	float: right;
+	position: relative;
+	background-image: url(../image/top_menu_bg.png);
+	background-repeat: repeat-x;
+}
+#top_nav {
+	width: 782px;
+	height: 285px;
+	float: right;
+	position: relative;
+}
+#baoyu {
+	position: absolute;
+	height: 38px;
+	width: 405px;
+	left: 78px;
+	top: 189px;
+	font-family: "微软雅黑";
+	font-size: 11px;
+	color: #FFFFFF;
+	text-align: right;
+	text-indent: 210px;
+	padding: 2px;
+	line-height: 19px;
+}
+
+
+#nav {
+	width: 996px;
+	height: 50px;
+	background-image: url(../image/nav_bg.gif);
+	background-repeat: repeat-x;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+#bottom {
+	width: 996px;
+	height: 454px;
+	background-color: #f9f9f9;
+}
+
+
+
+#left {
+	height: 454px;
+	width: 248px;
+	float: left;
+	background-color: ffffff;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #d9d9d9;
+	position: relative;
+}
+#main {
+	height: 400px;
+	width: 700px;
+	margin: 0px;
+	float: left;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #D9D9D9;
+	background-color: #FFFFFF;
+	padding: 0px;
+}
+#products {
+	width: 700px;
+	height: 182px;
+	background-image: url(../image/product_bg.gif);
+	background-repeat: repeat-x;
+	margin: 0px;
+	background-position: center;
+	float: left;
+	clear: both;
+}
+#c_news {
+	height: 170px;
+	width: 345px;
+	float: left;
+	margin-top: 26px;
+	margin-left: 20px;
+}
+
+
+
+#c_profile {
+	float: right;
+	height: 170px;
+	width: 277px;
+	margin-top: 26px;
+	margin-right: 20px;
+}
+#cp_content {
+	background-image: url(../image/qyjj_bg.gif);
+	display: block;
+	height: 129px;
+	width: 268px;
+	margin-top: 10px;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #757575;
+	padding: 4px;
+	line-height: 20px;
+}
+
+
+#footer {
+	width: 700px;
+	height: 54px;
+	float: left;
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-top-color: #353535;
+	border-right-color: #D9D9D9;
+	background-color: #FFFFFF;
+}
