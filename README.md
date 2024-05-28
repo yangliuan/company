@@ -1,7 +1,7 @@
 # 自制企业站
 
 #### 介绍
-毕业设计asp企业站,留念
+2011年毕业设计asp企业站,存档
 
 #### 软件架构
 程序运行环境:IIS7.0 asp-vbscript html css javascript
